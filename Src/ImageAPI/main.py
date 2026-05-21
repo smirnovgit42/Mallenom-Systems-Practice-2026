@@ -32,7 +32,6 @@ if not os.path.exists(IMAGE_FOLDER):
 
 
 # Подключение к БД
-
 def get_db():
     db = SessionLocal()
 
