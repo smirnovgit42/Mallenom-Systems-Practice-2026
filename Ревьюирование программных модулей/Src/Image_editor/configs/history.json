@@ -29,5 +29,40 @@
         "parameters": {
             "file": "test.png"
         }
+    },
+    {
+        "date": "2026-10-25T12:38:07",
+        "operation": "Загрузка изображения",
+        "parameters": {
+            "file": "Screenshot 2026-02-09 214605.png",
+            "width": 200,
+            "height": 453
+        }
+    },
+    {
+        "date": "2026-10-25T12:38:45",
+        "operation": "Изменение размера",
+        "parameters": {
+            "width": 420,
+            "height": 420
+        }
+    },
+    {
+        "date": "2026-10-25T12:38:54",
+        "operation": "Отмена действия",
+        "parameters": {}
+    },
+    {
+        "date": "2026-10-25T12:39:05",
+        "operation": "Изменение размера",
+        "parameters": {
+            "width": 420,
+            "height": 420
+        }
+    },
+    {
+        "date": "2026-10-25T12:39:09",
+        "operation": "Отмена действия",
+        "parameters": {}
     }
 ]
