@@ -64,5 +64,54 @@
         "date": "2026-10-25T12:39:09",
         "operation": "Отмена действия",
         "parameters": {}
+    },
+    {
+        "date": "2026-10-29T18:47:56",
+        "operation": "Загрузка изображения",
+        "parameters": {
+            "file": "image_rocotop101.jpeg",
+            "width": 1504,
+            "height": 1004
+        }
+    },
+    {
+        "date": "2026-10-29T18:49:00",
+        "operation": "Изменение размера",
+        "parameters": {
+            "width": 1500,
+            "height": 1113
+        }
+    },
+    {
+        "date": "2026-10-29T18:49:09",
+        "operation": "Изменение размера",
+        "parameters": {
+            "width": 1500,
+            "height": 900
+        }
+    },
+    {
+        "date": "2026-10-29T18:49:56",
+        "operation": "Изменение размера",
+        "parameters": {
+            "width": 1500,
+            "height": 500
+        }
+    },
+    {
+        "date": "2026-10-29T18:50:01",
+        "operation": "Изменение размера",
+        "parameters": {
+            "width": 1500,
+            "height": 700
+        }
+    },
+    {
+        "date": "2026-10-29T18:50:08",
+        "operation": "Изменение размера",
+        "parameters": {
+            "width": 1500,
+            "height": 900
+        }
     }
 ]

@@ -112,3 +112,4 @@ class ImageProcessor:
                 output_image = image.convert("RGB")
 
         output_image.save(path, format=format_map[extension])
+
